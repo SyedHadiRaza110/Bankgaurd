@@ -142,7 +142,7 @@ This project is licensed under the MIT License.
 
 **Syed Hadi**
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/SyedHadiRaza110
 
 ---
 
